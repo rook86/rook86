@@ -13,9 +13,6 @@
 [ [Advanced Multimedia Systems Lab.](https://www.ams.giti.waseda.ac.jp/) ]<br>
 [ [Multimedia Seminar](https://final-0.github.io/multimedia/) ]
 
-- 2025/04-<br>
-[Matsuo Institute](https://matsuo-institute.com/) (Incoming AI engineer)
-
 ---
 
 ## <div align="center">Education</div>

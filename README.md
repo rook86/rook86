@@ -7,19 +7,13 @@
 </div>
 ---
 
-## <div align="center">Affiliation</div>
-- 2023/04-2025/03<br>
-早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University<br>
-[ [Advanced Multimedia Systems Lab.](https://www.ams.giti.waseda.ac.jp/) ]<br>
-[ [Multimedia Seminar](https://final-0.github.io/multimedia/) ]
-
----
-
 ## <div align="center">Education</div>
   
 - 早稲田大学 基幹理工学部 応用数理学科 / Department of Applied Mathematics, Waseda University
   
-- 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University
+- 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University<br>
+[ [Advanced Multimedia Systems Lab.](https://www.ams.giti.waseda.ac.jp/) ]<br>
+[ [Multimedia Seminar](https://final-0.github.io/multimedia/) ]
   
 ---
 

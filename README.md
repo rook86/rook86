@@ -115,7 +115,7 @@
 [ [Multimedia Seminar](https://final-0.github.io/multimedia/) ]
 
 - 2025/04-<br>
-Matsuo Institute (Incoming AI engineer)
+[Matsuo Institute](https://matsuo-institute.com/) (Incoming AI engineer)
   
 ---
 

@@ -67,8 +67,6 @@
 [ [IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html) ]
 
 ### 2nd author
-- 特徴量差分を用いた視聴と画像認識のための階層画像符号化<br>
-[ [PCSJ2024](https://www.pcsj-imps.org/archive/2024.html) ] (発表予定)
 
 - VVC と CNN を組み合わせた YOLO-v7 のための映像符号化手法<br>
 [ [IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html) ]
@@ -77,6 +75,9 @@
 [ [PCSJ2022](https://www.pcsj-imps.org/archive/2022.html) ]
 
 ### others
+- 特徴量差分を用いた視聴と画像認識のための階層画像符号化<br>
+[ [PCSJ2024](https://www.pcsj-imps.org/archive/2024.html) ]
+
 - 行動条件付け VideoGPT の構築と検証<br>
 [ [JSAI 2023](https://www.ai-gakkai.or.jp/jsai2023/)]
 
@@ -121,7 +122,6 @@ Matsuo Institute (Incoming AI engineer)
 ## <div align="center">Co-Authors</div>
 - (https://github.com/final-0)
 - (https://github.com/nykie738)
-- (https://github.com/th359)
 - (https://github.com/qwert-top)
   
 ### Languages and Tools

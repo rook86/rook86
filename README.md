@@ -4,6 +4,7 @@
 [[Google Scholar](https://scholar.google.com/citations?user=pz1OUMIAAAAJ)]&emsp;[[Linkedin](https://www.linkedin.com/in/taiju-watanabe-4744861a7/)]<br>
 
 </div>
+---
 
 ## <div align="center">Education</div>
   

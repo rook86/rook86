@@ -7,7 +7,7 @@
 </div>
 
 ---
-## <div align="center">Achievement (International Conferences)</div>
+## <div align="center">Achievements (International Conferences)</div>
 ### 1st author
 - Future Object Detection Using Frame Prediction<br>
 [ [IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html) ]
@@ -57,7 +57,7 @@
 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315359)
 
 
-## <div align="center">Achievement (Domestic Conferences, Japan)</div>
+## <div align="center">Achievements (Domestic Conferences, Japan)</div>
 
 ### 1st author
 - Cross-Frame Attention を用いた映像補間モデルの一検討<br>
@@ -94,7 +94,7 @@
 
 ---
 
-## <div align="center">Experience</div>
+## <div align="center">Experiences</div>
 - Internship: AI engineer at [Matsuo Institute](https://matsuo-institute.com/) (Aug. 2021 - )
    
 - Internship: AI researcher at [NTT](https://www.rd.ntt/e/) (Aug. 2024 - Aug. 2024)

@@ -78,11 +78,6 @@
 
 ---
 
-## <div align="center">Award</div>
-- 早稲田大学 基幹理工学部 情報通信学科 賞 / Department of Information and Communication Sciences Award (Mar. 2023)<br>
-
----
-
 ## <div align="center">Acknowledgment</div>
 - [NICT](https://www.nict.go.jp/index.html) (National Institute of Information and Communications Technology)<br>
 [ 日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発 ] [採択番号05101](https://www.nict.go.jp/collabo/commission/B5Gsokushin/B5G_05101.html)

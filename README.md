@@ -5,8 +5,40 @@
 [[Google Scholar](https://scholar.google.com/citations?user=pz1OUMIAAAAJ)]&emsp;[[Linkedin](https://www.linkedin.com/in/taiju-watanabe-4744861a7/)]<br>
 
 </div>
+---
+
+## <div align="center">Affiliation</div>
+- 2023/04-2025/03<br>
+早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University<br>
+[ [Advanced Multimedia Systems Lab.](https://www.ams.giti.waseda.ac.jp/) ]<br>
+[ [Multimedia Seminar](https://final-0.github.io/multimedia/) ]
+
+- 2025/04-<br>
+[Matsuo Institute](https://matsuo-institute.com/) (Incoming AI engineer)
 
 ---
+
+## <div align="center">Education</div>
+  
+- 早稲田大学 基幹理工学部 応用数理学科 / Department of Applied Mathematics, Waseda University
+  
+- 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University
+  
+---
+
+## <div align="center">Experiences</div>
+- Internship: AI engineer at [Matsuo Institute](https://matsuo-institute.com/) (Aug. 2021 - )
+   
+- Internship: AI researcher at [NTT](https://www.rd.ntt/e/) (Aug. 2024 - Aug. 2024)
+
+---
+
+## <div align="center">Acknowledgment</div>
+- [NICT](https://www.nict.go.jp/index.html) (National Institute of Information and Communications Technology)<br>
+[ 日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発 ] [採択番号05101](https://www.nict.go.jp/collabo/commission/B5Gsokushin/B5G_05101.html)
+
+---
+
 ## <div align="center">Achievements (International Conferences)</div>
 ### 1st author
 - Future Object Detection Using Frame Prediction<br>
@@ -86,37 +118,6 @@
 
 - VideoGPT のデータセットサイズに関するスケーリング則<br>
 [ [JSAI 2023](https://www.ai-gakkai.or.jp/jsai2023/)]
----
-
-## <div align="center">Acknowledgment</div>
-- [NICT](https://www.nict.go.jp/index.html) (National Institute of Information and Communications Technology)<br>
-[ 日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発 ] [採択番号05101](https://www.nict.go.jp/collabo/commission/B5Gsokushin/B5G_05101.html)
-
----
-
-## <div align="center">Experiences</div>
-- Internship: AI engineer at [Matsuo Institute](https://matsuo-institute.com/) (Aug. 2021 - )
-   
-- Internship: AI researcher at [NTT](https://www.rd.ntt/e/) (Aug. 2024 - Aug. 2024)
-
----
-
-## <div align="center">Education</div>
-  
-- 早稲田大学 基幹理工学部 応用数理学科 / Department of Applied Mathematics, Waseda University
-  
-- 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University
-  
----
-## <div align="center">Affiliation</div>
-- 2023/04-2025/03<br>
-早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University<br>
-[ [Advanced Multimedia Systems Lab.](https://www.ams.giti.waseda.ac.jp/) ]<br>
-[ [Multimedia Seminar](https://final-0.github.io/multimedia/) ]
-
-- 2025/04-<br>
-[Matsuo Institute](https://matsuo-institute.com/) (Incoming AI engineer)
-  
 ---
 
 ## <div align="center">Co-Authors</div>

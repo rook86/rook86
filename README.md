@@ -85,7 +85,7 @@
 [ [IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html) ]
 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315359)
 
-
+---
 ## <div align="center">Achievements (Domestic Conferences, Japan)</div>
 
 ### 1st author

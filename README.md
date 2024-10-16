@@ -76,6 +76,15 @@
 - 符号化雑音環境下における物体検出精度の改善手法<br>
 [ [PCSJ2022](https://www.pcsj-imps.org/archive/2022.html) ]
 
+### others
+- 行動条件付け VideoGPT の構築と検証<br>
+[ [JSAI 2023](https://www.ai-gakkai.or.jp/jsai2023/)]
+
+- 世界モデルにおけるモデルサイズに対するスケーリング則<br>
+[ [JSAI 2023](https://www.ai-gakkai.or.jp/jsai2023/)]
+
+- VideoGPT のデータセットサイズに関するスケーリング則<br>
+[ [JSAI 2023](https://www.ai-gakkai.or.jp/jsai2023/)]
 ---
 
 ## <div align="center">Acknowledgment</div>

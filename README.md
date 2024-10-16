@@ -1,4 +1,4 @@
-## <div align="center">Research Topic</div>
+## <div align="center">Taiju Watanabe</div>
 
 <div align="center">
   

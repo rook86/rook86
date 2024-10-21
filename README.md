@@ -42,6 +42,10 @@
 [ [IEEE CCNC 2024](https://ccnc2024.ieee-ccnc.org/) ]
 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10454864), [arXiv](https://arxiv.org/abs/2308.13984)
 
+- Scalable Image Coding for Humans and Machines Using Feature Fusion Network<br>
+[ [IEEE MMSP 2024](https://attend.ieee.org/mmsp-2024/) ]
+[arXiv](https://arxiv.org/abs/2405.09152)
+
 - VVC Extension Scheme for Object Detection Using Contrast Reduction<br>
 [ [IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html) ]
 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315373), [arXiv](https://arxiv.org/abs/2305.18782)
@@ -65,10 +69,6 @@
 
 - Object Detection Method for Drone Videos Using Optical Flow<br>
 [ [IEVC 2024](https://www.iieej.org/en/ievc2024/) ]
-
-- Scalable Image Coding for Humans and Machines Using Feature Fusion Network<br>
-[ [IEEE MMSP 2024](https://attend.ieee.org/mmsp-2024/) ]
-[arXiv](https://arxiv.org/abs/2405.09152)
 
 - Data Augmentation with 3D-rendered Models for Livestock Recognition Using Drone Footage<br>
 [ [IEVC 2024](https://www.iieej.org/en/ievc2024/) ]

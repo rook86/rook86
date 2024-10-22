@@ -18,7 +18,7 @@
 ## <div align="center">Experiences</div>
 - Internship: AI engineer at [Matsuo Institute](https://matsuo-institute.com/) (Aug. 2021 - )
    
-- Internship: AI researcher at [NTT](https://www.rd.ntt/e/) (Aug. 2024 - Aug. 2024)
+- Internship: AI researcher at [NTT](https://www.rd.ntt/e/) (Aug. 2023 - Aug. 2023)
 
 ---
 
